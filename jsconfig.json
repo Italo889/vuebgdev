@@ -6,7 +6,9 @@
     "moduleResolution": "node",
     "paths": {
       "@/*": [
-        "src/*"
+        "src/*",
+        "src/components/*",
+        "src/components/HomePage.vue"
       ]
     },
     "lib": [
